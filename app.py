@@ -6,8 +6,8 @@ import xml.etree.ElementTree as ET
 
 
 #lastfm
-api_key = '43ef4c5b06c364ab45ad9ac7a8b8080e'
-username = 'beafrancisconi'
+api_key = ''
+username = ''
 
 # Define o endpoint da API do Last.fm
 url = 'http://ws.audioscrobbler.com/2.0/'
